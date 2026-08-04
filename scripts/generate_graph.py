@@ -13,11 +13,12 @@ MONTH_NAMES = ["Jan", "Feb", "Mar", "Apr", "May", "Jun",
                "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"]
 
 CHART_WIDTH = 760
-CHART_HEIGHT = 300
+CHART_HEIGHT = 330
 LEFT_PAD = 40
 RIGHT_PAD = 20
-TOP_PAD = 30
+TOP_PAD = 60
 BOTTOM_PAD = 40
+TITLE_COLOR = "#c9d1d9"
 BAR_COLOR = "#1D9E75"
 BG_COLOR = "#0d1117"
 GRID_COLOR = "#30363d"
@@ -83,10 +84,17 @@ def render_svg(totals):
             f'font-family="sans-serif" fill="{TEXT_COLOR}" text-anchor="middle">{MONTH_NAMES[i]}</text>'
         )
 
+    title = f"Monthly GitHub contributions — {YEAR}"
+    subtitle = "Number of contributions made each month"
+
     header = (
         f'<svg xmlns="http://www.w3.org/2000/svg" width="{CHART_WIDTH}" '
         f'height="{CHART_HEIGHT}" viewBox="0 0 {CHART_WIDTH} {CHART_HEIGHT}">'
         f'<rect width="{CHART_WIDTH}" height="{CHART_HEIGHT}" fill="{BG_COLOR}" rx="6"/>'
+        f'<text x="{LEFT_PAD}" y="24" font-size="16" font-family="sans-serif" '
+        f'font-weight="600" fill="{TITLE_COLOR}">{title}</text>'
+        f'<text x="{LEFT_PAD}" y="42" font-size="12" font-family="sans-serif" '
+        f'fill="{TEXT_COLOR}">{subtitle}</text>'
     )
     footer = "</svg>"
     return header + "".join(svg_parts) + footer

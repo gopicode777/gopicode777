@@ -1,57 +1,171 @@
-# 👋 Hi, I'm GOPIKA SATHISHBABU
 
-💻 Computer Science Engineering Student | Full Stack Web Developer | AI Enthusiast
+<div align="center">
 
-I'm passionate about building practical web applications that solve real-world problems. I enjoy creating modern, responsive, and AI-powered applications using HTML, CSS, JavaScript, Supabase, and cloud technologies.
+# 👋 Hi, I'm Gopika Sathisbabu
 
-Currently, I'm focused on improving my problem-solving skills, learning new technologies, and building projects that combine Artificial Intelligence with Web Development.
+### 🚀 Aspiring Software Engineer | AI & Web Development Enthusiast
+
+**B.E. Computer Science Engineering Student · Full-Stack Projects · AI Integration · Real-World Client Work**
+
+I turn ideas into useful digital experiences—from responsive web applications to AI-assisted tools. I'm growing my skills in software engineering, backend systems, and artificial intelligence by building, collaborating, and shipping practical projects.
+
+[![GitHub](https://img.shields.io/badge/GitHub-gopicode777-181717?style=for-the-badge&logo=github)](https://github.com/gopicode777)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gopicode777/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Explore-6C63FF?style=for-the-badge&logo=vercel)](https://gopicode777.github.io/portfolio-pro/)
+
+</div>
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 B.E. Computer Science Engineering Student(2year)
-- 💻 Passionate Full Stack Web Developer
-- 🤖 Interested in Artificial Intelligence & Software Development
-- 🌱 Currently learning Python, Backend Development & AI Integration
-- 💼 Freelancer — building real-world web & AI projects for clients
-- 🚀 Love building real-world projects instead of tutorial clones
-- 🎯 Goal: Become a Software Engineer / AI Engineer / Web Developer
+- 🎓 Second-year **B.E. Computer Science and Engineering** student.
+- 💻 Building **full-stack web applications** and exploring **AI-powered solutions**.
+- 🌱 Currently developing my skills in **Python, backend development, AI integration, and problem-solving**.
+- 💼 Working on **freelance client websites** and practical software projects.
+- 🤝 Learning through **internships, hackathons, and team collaborations**.
+- 🎯 Working towards a career in **software engineering**, with a focus on **AI and web technologies**.
 
 ---
 
-## 🔥 My Works
+## 🚀 Featured Projects
 
-- 🎤 **SpeakRate** — AI-powered English Communication & Interview Practice platform
-- 📚 **EduPulse LMS** — Modern Learning Management System with AI Quiz Generator, Live Quiz, Attendance & Student Analytics
-- 💬 **ChatFluent** — AI-powered English Speaking Practice platform
-- 🤖 AI-powered Education Platform *(in progress)*
-- 🌍 Real-world Full Stack Projects as a freelancer =[live](https://www.jsquarehousing.com/#)
+### 🏡 1. Jay Promoters — Real Estate Web Platform
+
+A real-world client website for property discovery, customer enquiries, and business presentation. Originally developed as **J Square Housing**, later rebranded to **Jay Promoters**.
+
+- Responsive real-estate interface and property information
+- Customer enquiry workflows and Supabase integration
+- Production deployment and domain integration
+
+**Tech:** HTML · CSS · JavaScript · Supabase · Vercel  
+**Links:** [💻 Repository](https://github.com/gopicode777/j-square-official) · [🌐 Live Website](https://www.jaypromoters.com/)
+
+### 🎓 2. EduPulse — AI-Powered Smart Classroom Platform
+
+A classroom learning and engagement platform built for SINCET, combining assessment tools and learning analytics.
+
+- AI-assisted quizzes, live quiz activities, and attendance tools
+- Student performance analysis and learning resources
+- Interview practice and gamified learning experiences
+
+**Tech:** HTML · CSS · JavaScript · Supabase · Groq AI  
+**Links:** [💻 Repository](https://github.com/gopicode777/sincet) · [🌐 Live Demo](https://sincet.vercel.app/)
+
+### 📝 3. Question Paper Generator — Academic Automation
+
+An AI-assisted question paper generation feature developed as part of the EduPulse ecosystem.
+
+- Helps educators prepare structured assessment questions
+- Supports question-paper creation and PDF-oriented workflows
+- Focuses on reducing repetitive academic preparation tasks
+
+**Focus:** AI Integration · Education Technology · Document Generation  
+**Link:** [💻 EduPulse Repository](https://github.com/gopicode777/sincet)
+
+### 🎤 4. SpeakRate — AI English Communication Practice
+
+An AI-powered practice platform for improving spoken English and preparing for interviews.
+
+- Communication and interview-practice workflows
+- AI-assisted feedback and learning support
+- User-focused interface for repeated practice
+
+**Focus:** AI Integration · Communication Skills · Web Development  
+**Link:** [💻 Repository](https://github.com/gopicode777/speakrate)
+
+### 👁️ 5. Real-Time Object Detection
+
+A browser-based computer-vision project that detects objects using a live camera feed.
+
+- Browser-based real-time detection
+- TensorFlow.js with the COCO-SSD model
+- Interactive results without a separate backend
+
+**Tech:** HTML · CSS · JavaScript · TensorFlow.js  
+**Link:** [💻 Repository](https://github.com/gopicode777/object-detection)
+
+### 🤖 6. A2Z Nexus — Multi-AI Agent Application
+
+A team-built multi-agent AI project developed during the **IBM Bob 2.0** hackathon.
+
+- AI-assisted workflows and multi-agent experimentation
+- Collaborative project development under hackathon constraints
+
+**Focus:** AI Agents · Team Collaboration · Rapid Prototyping  
+**Links:** [💻 Repository](https://github.com/gopicode777/A2Z-Nexus) · [🌐 Demo](https://a2znexus.vercel.app/login.html)
+
+### 📊 7. TaskFlow — Full-Stack Project Management
+
+A task and project management application developed during a full-stack internship.
+
+- Project and task management dashboards
+- Authentication and backend API integration
+- Progress visualization and task analytics
+
+**Tech:** React · Vite · Tailwind CSS · Node.js · Express · MongoDB · JWT  
+**Link:** [💻 Repository](https://github.com/gopicode777/upskill-intern-full-stack)
+
+### 🌍 8. NILAM — AI-Powered Land Audit Platform *(In Development)*
+
+An evolving property assessment concept combining location information, document workflows, and AI-assisted analysis.
+
+**Focus:** AI Integration · Maps/GIS · Property Technology  
+**Link:** [🌐 Prototype](https://nilam-gules.vercel.app/#/map)
 
 ---
+
+## 💼 Experience & Learning
+
+| Experience | Organization | Period | Key Learning |
+|---|---|---|---|
+| Full-Stack Development Internship | Upskill | 2026 | React, Node.js, Express, MongoDB, dashboard development |
+| Web Development Intern | Interne | Jan–Mar 2024 | Responsive pages, dynamic UI, web performance |
+| Frontend Development Intern | CodeSoft | Mar–May 2024 | Interactive frontend projects, JavaScript, responsive design |
+| AI Internship | CodeAlpha & Oasis Infobyte | May–Aug 2024 | AI mini-projects, ML fundamentals, prototypes |
+| Freelance Web Development | Client Projects | Ongoing | Requirements, deployment, database integration, client delivery |
+
+### 📚 Continuous Learning
+
+Python & programming fundamentals · Backend development · AI integrations · REST APIs · Git & GitHub · Hackathons · Collaborative software development
+
+---
+
 ## 💻 Tech Stack
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![REST API](https://img.shields.io/badge/REST%20API-005571?style=for-the-badge)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge) ![Judge0](https://img.shields.io/badge/Judge0-000000?style=for-the-badge)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%2346E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+**Languages:** JavaScript · Python · C · C++ · HTML5 · CSS3  
+**Frontend:** React · Tailwind CSS · Bootstrap · Responsive Web Design  
+**Backend:** Node.js · Express.js · REST APIs · JWT fundamentals  
+**Databases:** MongoDB · Supabase · SQL fundamentals  
+**Tools & Deployment:** Git · GitHub · VS Code · Postman · Figma · Vercel · Render
 
 ---
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=gopicode777&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-![](https://github-readme-streak-stats-eight.vercel.app/?user=gopicode777&theme=dark&hide_border=false)<br>
-![](./contribution-graph.svg)
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gopicode777&show_icons=true&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gopicode777&layout=compact&hide_border=true)
+
+</div>
+
 ---
+
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: [GOPIKA SATHISHBABU](https://www.linkedin.com/in/gopika037cse/)
-- 🌐 Portfolio: [Gopika S | Portfolio](https://gopicode777.github.io/portfolio-website/#home)
-- 📧 Email: gopikasgopikas143@gmail.com
+- 💼 **LinkedIn:** [Gopika Sathisbabu](https://www.linkedin.com/in/gopicode777/)
+- 🌐 **Portfolio:** [Explore My Work](https://gopicode777.github.io/portfolio-pro/)
+- 💻 **GitHub:** [@gopicode777](https://github.com/gopicode777)
+- 📧 **Email:** gopikasgopikas143@gmail.com
 
 ---
 
-⭐ Thanks for visiting my profile!
+<div align="center">
+
+### ✨ Learn · Build · Improve · Repeat
+
+*Thanks for visiting my profile!*
+
+</div>
